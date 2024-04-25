@@ -1,0 +1,17 @@
+header {background-color: red; }
+nav{background-color: blue;}
+#container {
+    max-width:960 px; margin:0 auto, background-color yellow;
+    }
+#left{
+    float:left; width:20%;  background-color:green;
+    }
+#main{
+    float:right; width:80%; background-color:lime;
+    }
+footer{
+    clear:both; background-color:fuchsia;
+    }
+.centertext{
+    text-align: center;
+    }
